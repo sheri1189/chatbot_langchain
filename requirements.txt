@@ -8,3 +8,5 @@ langchain-community
 PyPDF2
 mysql-connector-python
 sentence-transformers
+faiss-gpu
+faiss-cpu
