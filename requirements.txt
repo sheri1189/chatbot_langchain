@@ -6,4 +6,4 @@ python-dotenv
 python-docx
 langchain-community
 PyPDF2
-mysql
+mysql-connector-python
