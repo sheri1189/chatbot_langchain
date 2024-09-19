@@ -35,7 +35,7 @@ def main():
     st.markdown(hide_streamlit_style, unsafe_allow_html=True)
     with st.sidebar:
         # st.markdown("<img src='http://dev.ibexstack.com/stagging/assets/images/creative/logo_white.png' alt='Img not found' style='width: 182px;margin-top: -117px;'/>",unsafe_allow_html=True)
-        st.image('./logo/logo_white.png', width=250)
+        st.image('./logo/logo_white.png', width=150)
         hide_fullscreen_icon = """<style>button[title="View fullscreen"] {display: none;}</style>"""
         st.markdown(hide_fullscreen_icon, unsafe_allow_html=True)
         uploaded_files = st.file_uploader("", type=[
