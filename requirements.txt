@@ -7,3 +7,4 @@ python-docx
 langchain-community
 PyPDF2
 mysql-connector-python
+sentence-transformers
